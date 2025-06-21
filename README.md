@@ -3,6 +3,12 @@
 This is a micro frontend application built using **React** and **Vite**, exposing a dynamic music library UI via **Module Federation**. It allows users to view, filter, sort, and group songs, while admins can also add or delete songs.
 
 ---
+## 🌐 Deployed Micro Frontend
+
+🔗 [Live Music Library](https://music-library-sage.vercel.app/)
+
+This is the remote micro frontend app exposed via Module Federation. It is dynamically loaded by the main container app.
+
 
 ## 🚀 Features
 
