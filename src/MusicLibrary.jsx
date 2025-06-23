@@ -83,7 +83,7 @@ export default function MusicLibrary({ role }) {
       }, {})
     : null
 
-// MusicLibrary.jsx (just the return JSX, replace inside your current component)
+
 return (
   <div style={{
     border: '1px solid #444',
